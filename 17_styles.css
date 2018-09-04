@@ -1,0 +1,33 @@
+body{
+    margin: 0;
+    font-family: "Comic Sans MS",sans-serif;
+}
+h2{
+    background-color: lightsalmon;
+    text-align: center;
+    padding: 10px;
+    margin: 0px;
+}
+.main-section{
+    width: 50%;
+    text-align: center;
+    /*padding: 10px;*/
+    border: 1px solid black;
+    margin: 50px auto;
+}
+input[type='number']{
+    background-color: blanchedalmond;
+    text-align: center;
+    padding: 5px;
+    border-radius: 10px;
+    margin: 5px;
+}
+button{
+    width: 25px;
+    height: 25px;
+    border: none;
+    color: black;
+}
+#sum,#subtract,#multiply,#division{
+    margin: 10px;
+}
